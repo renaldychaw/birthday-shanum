@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import "../styles/BirthdayCake.css";
 
-const TOTAL_CANDLES = 4;
+const TOTAL_CANDLES = 5;
 
 export default function BirthdayCake() {
   const [blown, setBlown]         = useState(new Set());
@@ -176,7 +176,7 @@ export default function BirthdayCake() {
             <div className="cake-drip d1" /><div className="cake-drip d2" />
             <div className="cake-drip d3" /><div className="cake-drip d4" />
             <div className="cake-drip d5" />
-            <span className="cake-text">Happy 4th Shanum! 💜</span>
+            <span className="cake-text">Happy 5th Shanum! 💜</span>
           </div>
           <div className="cake-mid">
             <span className="cake-deco">🌸 ✨ 🎀 ✨ 🌸</span>
@@ -235,7 +235,7 @@ export default function BirthdayCake() {
       {allOut && (
         <div className="cake-celebration">
           <div className="celebration-text">🎉 Happy Birthday Shanum! 🎉</div>
-          <div className="celebration-sub">Level 4 Unlocked! 💜✨</div>
+          <div className="celebration-sub">Level 5 Unlocked! 💜✨</div>
         </div>
       )}
     </section>

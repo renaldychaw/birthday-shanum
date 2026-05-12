@@ -26,7 +26,7 @@ export default function Closing() {
       <h2 className="closing-title">Terus bersinar, Shanum! 🌸</h2>
 
       <p className="closing-sub">
-        Dari level 1 sampai level 4 — setiap hari bersamamu adalah petualangan yang luar biasa.
+        Dari level 1 sampai level 5 — setiap hari bersamamu adalah petualangan yang luar biasa.
         Dunia ini jadi lebih cerah dan penuh warna karena ada kamu di dalamnya.
         Selamat datang di petualangan baru! 💜
       </p>

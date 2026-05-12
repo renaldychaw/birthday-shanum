@@ -50,9 +50,9 @@ export const timeline = [
     desc: "Pertanyaan tak ada habisnya, cerita mengalir terus. Kata-kata mengalir deras dan dunia makin berwarna lewat obrolan seru setiap hari! 🌸",
   },
   {
-    year: "Tahun ke-4",
+    year: "Tahun ke-5",
     dot: "👑", bg: "#ffd6a0",
-    milestone: "Level 4 Unlocked!",
+    milestone: "Level 5 Unlocked!",
     desc: "Makin pinter, makin lucu, makin sayang sama semua orang. Shanum resmi naik level jadi versi terbaik dirinya! Selamat ulang tahun! 🎉",
   },
 ];

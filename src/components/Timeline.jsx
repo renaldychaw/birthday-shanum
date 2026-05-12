@@ -5,7 +5,7 @@ export default function Timeline() {
   return (
     <section className="timeline-section fade-section">
       <h2 className="section-title">🌟 Petualangan Shanum</h2>
-      <p className="section-sub">4 tahun penuh kenangan indah 💫</p>
+      <p className="section-sub">5 tahun penuh kenangan indah 💫</p>
 
       <div className="timeline">
         {timeline.map((t, i) => (

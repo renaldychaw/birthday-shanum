@@ -45,7 +45,7 @@ export default function Hero() {
         <h1 className="hero-title">
           Happy Level Up Day,<br />Shanum! 🎀✨
         </h1>
-        <p className="hero-sub">4 tahun penuh keceriaan dan keajaiban! 🌸</p>
+        <p className="hero-sub">5 tahun penuh keceriaan dan keajaiban! 🌸</p>
       </div>
 
       {/* Scroll indicator */}

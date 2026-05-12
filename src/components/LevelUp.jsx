@@ -33,7 +33,7 @@ export default function LevelUp() {
         <div className="msg-sparkle" style={{ bottom: "-10px", left: "22px", animationDelay: "0.8s" }}>💜</div>
         <div className="msg-sparkle" style={{ top: "10px", left: "14px", animationDelay: "1.4s" }}>🌸</div>
         <p>
-          Selamat ulang tahun ke-4, Shanum! 🎉 Semoga tahun ini penuh dengan tawa, petualangan seru,
+          Selamat ulang tahun ke-5, Shanum! 🎉 Semoga tahun ini penuh dengan tawa, petualangan seru,
           dan hal-hal menyenangkan. Kamu sudah tumbuh jadi anak yang luar biasa —
           terus semangat bermain, belajar, dan bikin semua orang di sekitarmu bahagia.
           Hari ini adalah harimu! Nikmati setiap momennya ya. 🌟💜
